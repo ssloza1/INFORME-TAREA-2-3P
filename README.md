@@ -17,6 +17,9 @@
 
 ## 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/105320981/186286781-02d10a0f-6e93-4332-ba46-00133ae14324.png)
+![image](https://user-images.githubusercontent.com/105320981/186286858-d55ce28d-b7fb-4fdc-9521-405e7534ad60.png)
+
 ## 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 2. Localice los siguientes números en el plano complejo:
